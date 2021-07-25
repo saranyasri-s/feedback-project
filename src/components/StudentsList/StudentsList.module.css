@@ -1,0 +1,12 @@
+.Feedbacks{
+    width: 50%;
+    margin: 2rem auto;
+    text-align: center;
+    background-color: teal;
+    display: flex;
+    flex-direction: column;
+}
+.button{
+   text-align: center;
+   
+}

@@ -1,0 +1,11 @@
+
+
+.heading{
+  color: rgb(244, 247, 243);
+  text-align: center;
+  margin: 0 auto 2rem auto;
+  padding-top: 2rem;
+}
+.App{
+  background-color: #0f2b29;
+}
